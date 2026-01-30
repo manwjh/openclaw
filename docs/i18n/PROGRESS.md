@@ -18,8 +18,8 @@
 | 文档 | 状态 | 翻译者 | 完成日期 | 最后同步 | 备注 |
 |------|------|--------|----------|----------|------|
 | `docs/index.md` | ✅ | manwjh | 2026-01-XX | 2026-01-XX | |
-| `docs/start/getting-started.md` | ⏳ | - | - | - | |
-| `docs/concepts/architecture.md` | ⏳ | - | - | - | |
+| `docs/start/getting-started.md` | ✅ | manwjh | 2026-01-XX | 2026-01-XX | |
+| `docs/concepts/architecture.md` | ✅ | manwjh | 2026-01-XX | 2026-01-XX | |
 | `docs/gateway/configuration.md` | ⏳ | - | - | - | |
 
 ## 第二优先级（重要功能）
@@ -40,10 +40,10 @@
 
 ## 统计
 
-- **已完成**: 1
+- **已完成**: 3
 - **进行中**: 0
 - **待翻译**: 100+
-- **完成率**: ~1%
+- **完成率**: ~3%
 
 ## 需要更新的文档
 

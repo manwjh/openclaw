@@ -2,6 +2,11 @@
 summary: "WebSocket 网关架构、组件和客户端流程"
 read_when:
   - 开发网关协议、客户端或传输层时
+original_path: "docs/concepts/architecture.md"
+translated_date: "2026-01-XX"
+translator: "manwjh"
+sync_status: "同步至上游版本 vX.X.X"
+last_sync_date: "2026-01-XX"
 ---
 # 网关架构
 
