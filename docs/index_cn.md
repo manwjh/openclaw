@@ -2,6 +2,11 @@
 summary: "OpenClaw 的高级概述、功能和使用目的"
 read_when:
   - 向新用户介绍 OpenClaw
+original_path: "docs/index.md"
+translated_date: "2026-01-XX"
+translator: "manwjh"
+sync_status: "同步至上游版本 vX.X.X"
+last_sync_date: "2026-01-XX"
 ---
 # OpenClaw 🦞
 
