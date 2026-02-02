@@ -2452,7 +2452,7 @@ Use Kimi Code's dedicated OpenAI-compatible endpoint (separate from Moonshot):
         models: [
           {
             id: "kimi-for-coding",
-            name: "Kimi For Coding",
+            name: "Kimi For Coding (powered by kimi-k2.5)",
             reasoning: true,
             input: ["text"],
             cost: { input: 0, output: 0, cacheRead: 0, cacheWrite: 0 },

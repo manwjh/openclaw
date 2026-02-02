@@ -304,7 +304,7 @@ function buildKimiCodeProvider(): ProviderConfig {
     models: [
       {
         id: KIMI_CODE_MODEL_ID,
-        name: "Kimi For Coding",
+        name: "Kimi For Coding (powered by kimi-k2.5)",
         reasoning: true,
         input: ["text"],
         cost: KIMI_CODE_DEFAULT_COST,

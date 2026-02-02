@@ -179,7 +179,7 @@ Kimi Code uses a dedicated endpoint and key (separate from Moonshot):
         baseUrl: "https://api.kimi.com/coding/v1",
         apiKey: "${KIMICODE_API_KEY}",
         api: "openai-completions",
-        models: [{ id: "kimi-for-coding", name: "Kimi For Coding" }]
+        models: [{ id: "kimi-for-coding", name: "Kimi For Coding (powered by kimi-k2.5)" }]
       }
     }
   }
